@@ -1,6 +1,6 @@
 # My First Python-Projects-Aakanksha-Tiwari
-# Project 1 – Flight Booking Price Prediction
-# Project 2 – Biosignal Analysis For Smoking
-# Project 3 – Image Classification Using Scikit-Learn
-# Project 4 – Census Income Project
-# Project 5 - Carbon Footprint From Food
+Project 1 – Carbon Footprint From Food
+Project 2 – Analyzing Naming Trends
+Project 3 – Heart Disease
+Project 4 – Census Income Project
+
